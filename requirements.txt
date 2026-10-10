@@ -1,0 +1,5 @@
+# Peanut V2 runtime dependency
+PySide6>=6.9,<7
+
+# Peanut V2 Windows packaging tool
+PyInstaller>=6.22,<7
